@@ -9,7 +9,7 @@ st.set_page_config(
 
 st.title("Recruiters")
 
-st.sidebar.success("Information about companies and Recruiters' contact")
+st.sidebar.success("Information about companies and Recruiters contact")
 
-st.subheader("Sponsors and Recruiters Contact information")
+st.subheader("Sponsored Recruiters' Contact information")
 st.write("...")
