@@ -1,7 +1,6 @@
 #creating a web app for MLH, would have a recruiter/sponsor, sponsored hack links, and workshop navigation 
 import streamlit as st
 from PIL import Image
-
 import pandas as pd
 import numpy as np
 
@@ -29,8 +28,8 @@ st.write("[Devpost](https://devpost.com)")
 st.write('Communication:')
 
 #add mlh-logo-color.png
-image = Image.open('mlh-logo-color.jpg')
-st.image(image)
+#image = Image.open('src\mlh-logo-color.jpg')
+#st.image(image)
 
 st.write("🔮🤖☀️👨‍💻🤍🦾🚀")
 
