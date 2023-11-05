@@ -1,7 +1,6 @@
 #creating a web app for MLH, would have a recruiter/sponsor, sponsored hack links, and workshop navigation 
 import streamlit as st
 from PIL import Image
-from trubrics.integrations.streamlit import FeedbackCollector
 import pandas as pd
 import numpy as np
 
