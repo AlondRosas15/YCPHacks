@@ -31,5 +31,4 @@ st.subheader("[Circle](https://www.circle.com/en)")
 st.subheader("[Soroban](https://soroban.stellar.org)")
 
 
-
 st.markdown("![](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)")

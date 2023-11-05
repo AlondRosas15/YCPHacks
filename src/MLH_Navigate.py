@@ -1,6 +1,7 @@
 #creating a web app for MLH, would have a recruiter/sponsor, sponsored hack links, and workshop navigation 
 import streamlit as st
 from PIL import Image
+
 import pandas as pd
 import numpy as np
 

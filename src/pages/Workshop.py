@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_survey as ss
 import random
 
 st.set_page_config(
@@ -13,7 +12,6 @@ st.title("Which Workshop you should check out!")
 st.sidebar.success("Don't know which one to go? Let us help!")
 
 #make a recommendation test that based on what user choice of buttons gives them an answer of recommendation such Machine Learning', 'Post Grad', 'Surprise me
-survey = ss.StreamlitSurvey();
 begin_sent = 'You should check out'
 
 st.write("What interest you the most")
